@@ -1,6 +1,6 @@
 # implementing linear regression
- Intro to linear regression 
-Comparing OLS and LAD loss functions
+<br>Intro to linear regression 
+<br>Comparing OLS and LAD loss functions
 
 ## Outline
 For this assignment, we will examine some data representing possums in Australia and New Guinea. The data frame contains 46 observations on the following 6 variables:
