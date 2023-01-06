@@ -1,5 +1,5 @@
 # implementing linear regression
-<br>Intro to linear regression 
+Intro to linear regression 
 <br>Comparing OLS and LAD loss functions
 
 ## Outline
